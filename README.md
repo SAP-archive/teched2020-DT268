@@ -2,15 +2,18 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2020 session called DT268 - Leverage SAP Cloud Platform Integration Suite in Your SAP S/4HANA Journey
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees on how to accelerate the speed of innovation, lower integration risks, and explore built-in integrations for SAP S/4HANA that are available through SAP API Business Hub. Enable end-to-end business processes and drill down to runtime artifacts such as integration flows and APIs. Discover how integration accelerators on SAP API Business Hub can fast-track your SAP S/4HANA journey.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are following:
+
+1. Access to SAP S/4HANA Cloud Instance
+2. Access to SAP Cloud Platform Integration Instance 
 
 ## Exercises
 
