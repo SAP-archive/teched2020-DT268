@@ -10,7 +10,7 @@ This session introduces attendees on how to accelerate the speed of innovation, 
 
 ## PREREQUISITES
 
-PREREQUISITES
+
 1. [Get an SAP Account and get access to Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 You will need an SAP account to access the SAP API Business Hub which is used across exercises in this hands-on.
 2. You will need Microsoft Excel for the exercise 4 of this hands-on.
