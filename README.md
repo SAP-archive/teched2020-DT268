@@ -8,12 +8,14 @@ This repository contains the material for the SAP TechEd 2020 session called DT2
 
 This session introduces attendees on how to accelerate the speed of innovation, lower integration risks, and explore built-in integrations for SAP S/4HANA that are available through SAP API Business Hub. Enable end-to-end business processes and drill down to runtime artifacts such as integration flows and APIs. Discover how integration accelerators on SAP API Business Hub can fast-track your SAP S/4HANA journey.
 
-## Requirements
+## PREREQUISITES
 
-The requirements to follow the exercises in this repository are following:
-
-1. Access to SAP S/4HANA Cloud Instance
-2. Access to SAP Cloud Platform Integration Instance 
+PREREQUISITES
+1. [Get an SAP Account and get access to Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+You will need an SAP account to access the SAP API Business Hub which is used across exercises in this hands-on.
+2. You will need Microsoft Excel for the exercise 4 of this hands-on.
+3. Enable your SAP Cloud Platform Integraiton Suite trial account as you get started. This will save time as you move to exercise 5 to explore the integration capabilities that accelerate your vision to provide connected experience.
+Follow the steps provided in this tutorial: [Set Up Integration Suite Trial](https://developers.sap.com/tutorials/cp-starter-isuite-onboard-subscribe.html#1a553027-3120-49aa-8375-031aebd5f5e8)
 
 ## Exercises
 
