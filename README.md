@@ -1,5 +1,7 @@
 # DT268 - Leverage SAP Cloud Platform Integration Suite in Your SAP S/4HANA Journey
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DT268)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DT268)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called DT268 - Leverage SAP Cloud Platform Integration Suite in Your SAP S/4HANA Journey
